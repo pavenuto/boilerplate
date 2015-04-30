@@ -1,0 +1,22 @@
+{
+  "name": "boilerplate",
+  "version": "0.1.1",
+  "description": "Personal gulp boilerplate",
+  "author": "Paul Venuto",
+  "devDependencies": {
+    "browser-sync": "^1.9.1",
+    "gulp": "^3.8.11",
+    "gulp-changed": "^1.1.0",
+    "gulp-concat": "^2.4.3",
+    "gulp-imagemin": "^2.1.0",
+    "gulp-jade": "^0.11.0",
+    "gulp-jshint": "^1.9.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-stylus": "^2.0.0",
+    "gulp-uglify": "^1.1.0",
+    "nib": "^1.1.0"
+  },
+  "dependencies": {
+    "gulp-plumber": "^0.6.6"
+  }
+}
